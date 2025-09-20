@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Sravanisekhar
-- 👀 I’m interested in Data Analytics,Arteficial Intelligence
-- 🌱 I’m currently learning Data Analytics
-- ⚡ Fun fact: your plan fails if you fail to plan
+- 👋 Hi, I’m @Sravanisekhar  
+- 👀 Enthusiast in Data Science, AI & ML  
+- 🌱 Currently learning and exploring advanced AI techniques  
+- ⚡ Fun fact: Plans fail if you fail to plan
+
 
 <!---
 Sravanisekhar/Sravanisekhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
